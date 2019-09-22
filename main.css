@@ -159,6 +159,12 @@ body {
   font-size: 18px !important;
   background: #000000 !important;
 }
+
+.mwe-popups {
+  border: none !important;
+  background: #000000 !important;
+}
+
 #content {
   margin: 0 auto !important;
   border: none !important;
@@ -169,12 +175,41 @@ body {
   background: #000000 !important;
   color: #ccc !important;
 }
-a {
-  text-decoration: none !important;
-}
-a:hover {
-  text-decoration: underline !important;
-}
+/* a { */
+/*   text-decoration: none !important; */
+/*   color: #ba0 !important; */
+/* } */
+/* a:hover { */
+/*   text-decoration: underline !important; */
+/*   color: #de4 !important; */
+/* } */
+/* a:visited { */
+/*   text-decoration: none !important; */
+/*   color: #ba0 !important; */
+/* } */
+/* a:hover,visited { */
+/*   text-decoration: underline !important; */
+/*   color: #de4 !important; */
+/* } */
+/* a.new { */
+/*   text-decoration: none !important; */
+/*   color: #f55 !important; */
+/* } */
+/* a.new:hover { */
+/*   text-decoration: underline !important; */
+/*   color: #f77 !important; */
+/* } */
+
+a { color: #a09427 !important; }
+/* a { color: #a09000 !important; } */
+/* a { color: #ccb800 !important; } */
+/* a { color: #ba0 !important; } */
+a:hover { color: #de4 !important; }
+a:visited { color: #a09427 !important; }
+/* a:visited { color: #5b6424 !important; } */
+/* a:visited { color: #ab4 !important; } */
+a:visited:hover { color: #de4 !important; }
+a.new, .error, .newpage { color: #f55 !important; } a.new:hover { color: #f77 !important; }
 /* top nav */
 #mw-page-base {
   height: 90px !important;
@@ -482,12 +517,12 @@ html[lang="de"] #bodyContent #coordinates
   font-family: 'Source Sans Pro' !important;
   letter-spacing: -0.3px !important;
 }
-#bodyContent a:not(.new) {
-  color: #8ab5e5 !important;
-}
-#bodyContent a:not(.new):visited {
-  color: #dcb7ff !important;
-}
+/* #bodyContent a:not(.new) { */
+/*   color: #8ab5e5 !important; */
+/* } */
+/* #bodyContent a:not(.new):visited { */
+/*   color: #dcb7ff !important; */
+/* } */
 #bodyContent .dablink,
 #bodyContent .relarticle,
 #bodyContent .rellink {
