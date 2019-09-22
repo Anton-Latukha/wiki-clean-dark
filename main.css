@@ -157,7 +157,7 @@ body {
   border: none !important;
   font-family: 'Source Sans Pro', sans-serif !important;
   font-size: 18px !important;
-  background: #2c2f33 !important;
+  background: #000000 !important;
 }
 #content {
   margin: 0 auto !important;
@@ -166,7 +166,7 @@ body {
   font-size: 1rem !important;
   line-height: 80% !important;
   max-width: 920px !important;
-  background: #2c2f33 !important;
+  background: #000000 !important;
   color: #ccc !important;
 }
 a {
@@ -453,9 +453,9 @@ body {
 #bodyContent #coordinates {
   top: -3px !important;
   padding: 4px 6px 3px !important;
-  background: #2c2f33 !important;
+  background: #000000 !important;
   border-radius: 0px !important;
-  border: 1px solid #2c2f33 !important;
+  border: 1px solid #000000 !important;
   /* box-shadow: inset 0 1px 0 rgba(255,255,255,0.75), 0 1px 1px rgba(0,0,0,0.25) !important; */
 }
 html[lang="de"] #bodyContent #coordinates
@@ -752,10 +752,10 @@ tr + tr > .navbox-abovebelow,
 tr + tr > .navbox-group,
 tr + tr > .navbox-image,
 tr + tr > .navbox-list {
-  border-color: #2c2f33;
+  border-color: #000000;
 }
 .navbox-even {
-  background-color: #2c2f33;
+  background-color: #000000;
 }
 .navbox-odd {
   background-color: #202020;
