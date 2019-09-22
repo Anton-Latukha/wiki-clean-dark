@@ -239,7 +239,7 @@
         color: #f0f0f0 !important;
     }
     #mw-head #searchform > div {
-        position: absolute !important;
+        /* position: absolute !important; */
         top: -32px !important;
         right: -30px !important;
         margin-top: 13px !important;
