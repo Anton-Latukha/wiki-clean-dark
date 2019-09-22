@@ -1,0 +1,3 @@
+@-moz-document domain("wikipedia.org"){
+  @import url("https://raw.githubusercontent.com/Anton-Latukha/wiki-cleaner-darker/master/main.css");
+}
