@@ -179,7 +179,7 @@ a:hover {
 #mw-page-base {
   height: 90px !important;
   margin: 0 auto !important;
-  background: #23272a !important;
+  background: #000000 !important;
   /* background: #CAC8C4 !important; */
 }
 #mw-navigation {
@@ -282,7 +282,7 @@ a:hover {
   height: 100% !important;
   overflow-y: auto !important;
   padding: 0 0 0 100px !important;
-  background: #23272a !important;
+  background: #000000 !important;
   box-shadow: 1px 0 3px rgba(0, 0, 0, 0.25) !important;
   transition: all 0.66s ease-in-out !important;
   opacity: 0 !important;
@@ -561,7 +561,7 @@ td.diff-ntitle,
 .noarticletext,
 .quotebox,
 .mw-code {
-  background-color: #23272a !important;
+  background-color: #000000 !important;
   color: #ccc;
   font-size: 0.9rem;
   border-radius: 2px;
@@ -636,7 +636,7 @@ table
   overflow-y: auto!important;
   z-index: 9999;
   color: #ccc;
-  background: #23272a !important;
+  background: #000000 !important;
   box-shadow: 1px 0 6px rgba(0, 0, 0, 0.25) !important;
 }
 #toc:hover {
@@ -722,7 +722,7 @@ table
   transition: background 0.2s ease-in-out !important;
 }
 #toc ul li:hover {
-  background: #111 !important;
+  background: #000 !important;
 }
 #toc #toctitle {
   display: none !important;
@@ -741,7 +741,7 @@ table.wikitable > * > tr > th {
 }
 .navbox,
 .navbox-subgroup {
-  background-color: #23272a;
+  background-color: #000000;
 }
 .navbox-group,
 .navbox-title,
@@ -766,7 +766,7 @@ tr + tr > .navbox-list {
   right: 0 !important;
   margin: 0 !important;
   padding: 15px 0 !important;
-  background-color: #23272a !important;
+  background-color: #000000 !important;
 }
 #footer-info {
   max-width: 860px !important;
